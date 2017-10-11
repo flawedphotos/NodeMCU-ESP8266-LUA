@@ -1,6 +1,6 @@
 -- #################################
-INFLUXDB_HOST = "fo"
-INFLUXDB_DB = "realz"
+INFLUXDB_HOST = "127.0.0.1"
+INFLUXDB_DB = "foobar"
 -- #################################
 CRLF = "\r\n"
 MEASUREMENT = "DOOR_SENSOR"
